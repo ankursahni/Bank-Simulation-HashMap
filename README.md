@@ -1,4 +1,4 @@
-# Bank-Simulation-HashMap
+# Bank-Simulation-HashMap in Java 
 Bank Simulation with Basic Operations using HashMap
 
 We have list of customer names, and account balance
